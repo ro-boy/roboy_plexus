@@ -1,4 +1,7 @@
 # Prerequisites
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7fc794d1f7084cda9c591378ec0ef8d2)](https://app.codacy.com/app/ro-boy/roboy_plexus?utm_source=github.com&utm_medium=referral&utm_content=ro-boy/roboy_plexus&utm_campaign=Badge_Grade_Dashboard)
+
 1. Install dependencies
 ```
 sudo apt install gcc-arm-linux-gnueabihf g++-arm-linux-gnueabihf 
